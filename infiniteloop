@@ -1,0 +1,30 @@
+public class InfiniteLoop {
+
+	public static void main(String[] args) {
+		for (;;)
+		{
+			System.out.println("Prudhviiiiiiiiiiiiii");
+			
+		}
+			
+	}
+
+}
+	
+o/p..
+Prudhviiiiiiiiiii
+Prudhviiiiiiiiiii
+Prudhviiiiiiiiiii
+Prudhviiiiiiiiiii
+Prudhviiiiiiiiiii
+Prudhviiiiiiiiiii
+Prudhviiiiiiiiiii
+.......
+......
+.....
+......
+.......
+.....
+....
+....
+....
